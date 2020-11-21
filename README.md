@@ -1,6 +1,6 @@
 This repository provides a reference implementation of SDNE as described in the paper:
 
-Structural Deep network Embedding.
+Structural Deep network Embedding.\\
 Daixin Wang, Peng Cui, Wenwu Zhu
 Knowledge Discovery and Data Mining, 2016.
 
@@ -11,7 +11,9 @@ Knowledge Discovery and Data Mining, 2016.
 3. Algorithms used in the tasks:
 
       Clustering：k-means; 
+      
       Classification: SVM; 
+      
       Visualization: t-SNE;
 
 4. Requirement: Python 3.7, Pytorch: 1.5 and other pakeages which is illustrated in the code. And the codes can be runned in the windows.
