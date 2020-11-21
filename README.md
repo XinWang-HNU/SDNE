@@ -1,8 +1,10 @@
 This repository provides a reference implementation of SDNE as described in the paper:
 
-Structural Deep network Embedding.\\
-Daixin Wang, Peng Cui, Wenwu Zhu
-Knowledge Discovery and Data Mining, 2016.
+      Structural Deep network Embedding.
+      
+      Daixin Wang, Peng Cui, Wenwu Zhu
+      
+      Knowledge Discovery and Data Mining, 2016.
 
 1. This is the SDNE I reproduced using PyTorch.
 
